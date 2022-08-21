@@ -1,0 +1,33 @@
+.main{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    background-image: url('./images/back.jpg');
+}
+.content{
+    display: flex;
+    background-color: black;
+
+}
+.image{
+    display: flex;
+    float: left;
+    width: 50%;
+    height: 100%;
+    margin: 0;
+    padding: 0%;
+    border: 1px;
+    border-style: none solid none none;
+    border-color: aliceblue;
+}
+.spec{
+    color: azure;
+    float: right;
+    width: 35%;
+    height: 100hv;
+
+
+}
