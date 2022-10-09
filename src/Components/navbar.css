@@ -28,7 +28,8 @@ nav>li{
 }  */
 
 nav li:hover{
-    color: rgb(199, 38, 38);
+    
+    color: brown;
     transition: 2s;
     cursor: pointer;
 }
