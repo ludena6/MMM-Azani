@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MMM-Azani/static/css/main.40672181.css",
+    "main.js": "/MMM-Azani/static/js/main.f52ae45d.js",
+    "static/js/787.5235ed23.chunk.js": "/MMM-Azani/static/js/787.5235ed23.chunk.js",
+    "static/media/logo.svg": "/MMM-Azani/static/media/logo.5025d075d2b924990deb17b5e118ce53.svg",
+    "static/media/back.jpg": "/MMM-Azani/static/media/back.d187d3032fe25eb9295a.jpg",
+    "static/media/specs.webp": "/MMM-Azani/static/media/specs.39363bdb8cad1e4002b1.webp",
+    "static/media/technology.svg": "/MMM-Azani/static/media/technology.928636baa85c1946904f2cf93dbecbe5.svg",
+    "static/media/Enein.svg": "/MMM-Azani/static/media/Enein.25dda132fe795c5d0f10a4b9891c8cdc.svg",
+    "static/media/power.svg": "/MMM-Azani/static/media/power.a2552a5c8189c31715c1d020f40caa0f.svg",
+    "static/media/azanistyle.svg": "/MMM-Azani/static/media/azanistyle.0fef82f8fd456759cd3a373ec7b0abd7.svg",
+    "static/media/azani.svg": "/MMM-Azani/static/media/azani.ec6365dddb7acd2b4b28669d09885af3.svg",
+    "index.html": "/MMM-Azani/index.html",
+    "main.40672181.css.map": "/MMM-Azani/static/css/main.40672181.css.map",
+    "main.f52ae45d.js.map": "/MMM-Azani/static/js/main.f52ae45d.js.map",
+    "787.5235ed23.chunk.js.map": "/MMM-Azani/static/js/787.5235ed23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40672181.css",
+    "static/js/main.f52ae45d.js"
+  ]
+}
