@@ -5,6 +5,7 @@
 
 React application
 
+![image](https://user-images.githubusercontent.com/76097762/209159381-9dd07cfb-efcb-406d-aca5-50427e5eb278.png)
 
 
 ## steps to setup
