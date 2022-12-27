@@ -22,53 +22,53 @@ function Specs_image(){
 function Specs_Content(){
   return(<>
   <table >
-    <tr class="cardhead">
+    <tr className="cardhead">
      <img  src={azani} alt='no logo'/>
      <span>Specs</span>
-     <div class="t">
+     <div className="t">
       <img  src={power} alt='no logo'/>    
     </div> 
     </tr>
     
-    <tr class="cardss">
+    <tr className="cardss">
       <td>
         <div className='spec'>
-          <div class="cards">
-            <div class="card card-1">
-              <h2 class="card__title">Horsepower</h2>
-              <p class="card__apply">
-              <a class="card__link" >1,000 hp <i class="fas fa-arrow-right"></i></a>
+          <div className="cards">
+            <div className="card card-1">
+              <h2 className="card__title">Horsepower</h2>
+              <p className="card__apply">
+              <a className="card__link" >1,000 hp <i className="fas fa-arrow-right"></i></a>
               </p>
             </div>
           </div>
         </div >
       </td>
       <td>
-            <div class="cards">
-              <div class="card card-1">
-                <h2 class="card__title">Turning</h2>
-                <p class="card__apply">
-                <a class="card__link" >1,000 nm<i class="fas fa-arrow-right"></i></a>
+            <div className="cards">
+              <div className="card card-1">
+                <h2 className="card__title">Turning</h2>
+                <p className="card__apply">
+                <a className="card__link" >1,000 nm<i className="fas fa-arrow-right"></i></a>
                 </p>
               </div>
           </div>
       </td>
     </tr>
-    <tr class="cardhead f">
+    <tr className="cardhead f">
     
-     <div class="top">
+     <div className="top">
       <img  src={Enein} alt='no logo'/>    
     </div> 
     </tr>
     
-    <tr class="cardss">
+    <tr className="cardss">
   
         <div className='spec'>
-          <div class="cards">
-            <div class="card card-1">
-              <h2 class="card__title">Skateboard Aluminium Spaceframe</h2>
-              <p class="card__apply">
-              <a class="card__link" >Chassis <i class="fas fa-arrow-right"></i></a>
+          <div className="cards">
+            <div className="card card-1">
+              <h2 className="card__title">Skateboard Aluminium Spaceframe</h2>
+              <p className="card__apply">
+              <a className="card__link" >Chassis <i className="fas fa-arrow-right"></i></a>
               </p>
             </div>
           </div>
@@ -76,39 +76,39 @@ function Specs_Content(){
 
       <td>
         <div className='spec'>
-            <div class="cards">
-              <div class="card card-1">
-                <h2 class="card__title">Double Wishbone With Adaptive MR Damping</h2>
-                <p class="card__apply">
-                <a class="card__link" >Suspension<i class="fas fa-arrow-right"></i></a>
+            <div className="cards">
+              <div className="card card-1">
+                <h2 className="card__title">Double Wishbone With Adaptive MR Damping</h2>
+                <p className="card__apply">
+                <a className="card__link" >Suspension<i className="fas fa-arrow-right"></i></a>
                 </p>
               </div>
             </div>
           </div>
       </td>
     </tr>
-    <tr class="cardhead ">
+    <tr className="cardhead ">
 
-     <div class="top">
+     <div className="top">
       <img  src={technology} alt='no logo'/>    
     </div> 
     </tr>
     
-    <tr class="cardss">
+    <tr className="cardss">
       <td>
         <div className='spec'>
-          <div class="cards">
-            <div class="card card-1">
-              <h2 class="card__title">Augmented Reality Displays</h2>
+          <div className="cards">
+            <div className="card card-1">
+              <h2 className="card__title">Augmented Reality Displays</h2>
             </div>
           </div>
         </div >
       </td>
       <td>
         <div className='spec'>
-            <div class="cards">
-              <div class="card card-1">
-                <h2 class="card__title">M-log Integration</h2>
+            <div className="cards">
+              <div className="card card-1">
+                <h2 className="card__title">M-log Integration</h2>
              
               </div>
             </div>
